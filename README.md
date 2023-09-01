@@ -5,9 +5,6 @@ Certainly! Here's a detailed README file description for your project that you c
 
 # Amazon Price Tracker
 
-![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
-![GitHub](https://img.shields.io/github/license/yourname/Amazon-Price-Tracker)
-
 **Amazon Price Tracker** is a simple Python script that allows you to track the price of a product on Flipkart and sends you an email notification when the price falls below a certain threshold.
 
 ## Features
@@ -21,8 +18,8 @@ Certainly! Here's a detailed README file description for your project that you c
 - [Installation](#installation)
 - [Usage](#usage)
 - [Customization](#customization)
+- [Creating a Build](#CreatingaBuild)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
