@@ -44,4 +44,4 @@ if __name__ == '__main__':
         time.sleep(60*60)    #one hour in seconds
 
 # To create a .exe file for this code, run the following command in the terminal
-# pyinstaller --add-data "track.py;." track.py
+# pyinstaller --add-data "priceTracker.py;." priceTracker.py
