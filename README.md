@@ -1,17 +1,12 @@
-# Simple-Flipkart-Price-Tracker
-Certainly! Here's a detailed README file description for your project that you can include on GitHub:
+# Simple Flipkart Price Tracker
 
----
-
-# Amazon Price Tracker
-
-**Amazon Price Tracker** is a simple Python script that allows you to track the price of a product on Flipkart and sends you an email notification when the price falls below a certain threshold.
+**Flipkart Price Tracker** is a simple Python script that allows you to track the price of a product on Flipkart and sends you an email notification when the price falls below a certain threshold.
 
 ## Features
 
 - **Price Tracking:** Monitor the price of a specific product on Flipkart.
 - **Email Notifications:** Receive an email notification when the price drops below a set threshold.
-- **Customizable:** Easily customize the product URL, email notification settings, and price threshold.
+- **Customizable:** Easily customize the product URL and email notification settings.
 
 ## Table of Contents
 
