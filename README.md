@@ -1,4 +1,4 @@
-# Simple Flipkart Price Tracker
+# Simple Flipkart Price Tracker(Deprecated)
 
 **Flipkart Price Tracker** is a simple Python script that allows you to track the price of a product on Flipkart and sends you an email notification when the price falls below a certain threshold.
 
